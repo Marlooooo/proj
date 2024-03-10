@@ -1,0 +1,65 @@
+body{
+   background-color: rgb(218, 218, 218);
+   margin: 0;
+   
+}
+
+.anony{
+   display: block; 
+   text-align: center;
+   margin-top: 0;
+   color: antiquewhite;
+   font-size: 60px;
+   font-family: "Oswald", sans-serif;
+   font-optical-sizing: auto;
+   font-style: normal;
+   font-weight: 350;
+   background-color: rgb(0, 0, 0);
+   padding: 20px;
+   border: 5px solid gray;
+   border-top: 0;
+   border-left: 0;
+   border-right: 0;
+}
+
+.notes{
+   font-family: "PT Serif", serif;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 70px;
+}  
+
+
+.img1{
+   position: absolute;
+   left: 100px;
+   top: 180px; 
+}
+
+.writeButton{
+   border-radius: 10px;
+   color: rgb(255, 254, 254);
+   background-color: black;
+   position: absolute;
+   right: 20%;
+   top: 30%;
+   width: 350px;
+   height: 50px;
+   padding: 0;
+   font-size: 20px;
+   font-family: "Oswald", sans-serif;
+   font-optical-sizing: auto;
+   font-style: normal;
+}
+
+.browseNotes{
+   border-radius: 10px;
+}
+
+hr{
+   height: 1px;
+   width: 50%;
+   position: absolute;
+   bottom: 100px;
+
+}
